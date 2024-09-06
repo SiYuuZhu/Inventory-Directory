@@ -18,5 +18,9 @@ $ source env/Scripts/activate
 ```bash
 $ python manage.py runserver
 ```
+<img alt="demo-home" src="https://github.com/user-attachments/assets/4bbdee57-4cd3-4a73-b863-224fa583b4de">
+
+ 　
+<img alt="demo-detail" src="https://github.com/user-attachments/assets/f7debd97-996a-4fe1-82bb-241bc8985ce4">
 
 
